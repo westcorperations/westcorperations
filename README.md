@@ -45,10 +45,12 @@ I build infrastructure that businesses depend on, not throwaway prototypes.
 - Role-based access control and middleware-driven authorization
 
 ### Cloud and Infrastructure
-- Containerized deployments with Docker
-- CI/CD pipeline configuration
-- Application monitoring and observability
-- Environment management and secure configuration
+- AWS services: EC2, S3, RDS, Lambda, SQS, SNS, CloudFront, Elastic Beanstalk, IAM
+- Containerized deployments with Docker and ECS
+- CI/CD pipeline configuration with GitHub Actions and CodePipeline
+- Application monitoring with CloudWatch and observability tooling
+- Infrastructure as code and environment management
+- Secure configuration with Secrets Manager and Parameter Store
 
 ### Web and Frontend
 - Single-page application development with Vue.js
@@ -70,7 +72,7 @@ Laravel, Vue.js, Nuxt.js, Express.js, Tailwind CSS, Bootstrap
 MySQL, PostgreSQL, Redis, Queue Systems
 
 **Cloud and Infrastructure**
-Docker, Nginx, GitHub Actions, Linux
+AWS (EC2, S3, RDS, Lambda, SQS, CloudFront, ECS), Docker, Nginx, GitHub Actions, Linux
 
 **Integrations**
 Paystack, Paga, Fincra, Bridge API, Stripe
